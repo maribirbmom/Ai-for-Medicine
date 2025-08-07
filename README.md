@@ -36,7 +36,6 @@ Across three in-depth courses, I implemented:
 - Evaluation: AUC, ROC curves, sensitivity/specificity
 
 > ✅ Projects: Chest X-ray classification, Brain Tumor Auto-Segmentation  
-> 🎯 Grade: 100% (Assignments)
 
 ---
 
@@ -50,7 +49,6 @@ Across three in-depth courses, I implemented:
 - Individualized risk predictions
 
 > ✅ Projects: Risk Scoring, Kaplan-Meier Estimation, Tree-based Survival Models  
-> 🎯 Grade: 90% – 100%
 
 ---
 
@@ -63,8 +61,7 @@ Across three in-depth courses, I implemented:
 - C-for-benefit metric
 - Interpreting CNNs (GradCAM), Label Extraction with NLP
 
-> ✅ Projects: Treatment Effect Models, Logistic Interpretation, GradCAM, NLP Labeling  
-> 🎯 Grade: 100%
+> ✅ Projects: Treatment Effect Models, Logistic Interpretation, NLP Labeling  
 
 ---
 
@@ -73,8 +70,8 @@ Across three in-depth courses, I implemented:
 ```bash
 AI-for-Medicine/
 ├── 01-AI-for-Medical-Diagnosis/
-│   └── X-ray classification, MRI segmentation, model evaluation
+│   └── Chest X-ray classification, MRI segmentation, diagnostic model evaluation
 ├── 02-AI-for-Medical-Prognosis/
-│   └── Risk prediction, Survival analysis, Tree models
+│   └── Risk prediction, Survival analysis, Cox proportional hazards & random survival forests
 ├── 03-AI-for-Medical-Treatment/
-│   └── Causal inference, GradCAM, NLP for label extraction
+│   └── Treatment effect using ML, Natural language entity extraction, ML Interpretation
